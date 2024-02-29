@@ -1,5 +1,5 @@
 {
-    "name": "workouse/sylius-digital-wallet-plugin",
+    "name": "taciclei/sylius-digital-wallet-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Digital Wallet Bundle for Sylius E-Commerce",
@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.1",
 
-        "sylius/sylius": "^1.4"
+        "sylius/sylius": "^1.12"
     },
     "require-dev": {
         "behat/behat": "^3.4",
